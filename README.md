@@ -1,3 +1,4 @@
+Hi there 👋, my name is Miquéias
 <div>
   <a hred="https://github.com/MiqueiasLp">
   <img src="https://github-readme-stats.vercel.app/api?username=MiqueiasLp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy" style="max-width: 100%;">
