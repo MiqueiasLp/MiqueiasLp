@@ -6,12 +6,17 @@ Hi there 👋, my name is Miquéias
 
   <a href="https://github.com/MiqueiasLp">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiqueiasLp&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueiasLp&layout=compact&langs_count=7&theme=blue_navy"/>
 
 </div>
+<div align="center">
 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MiqueiasLp&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fb950&icon_color=3fb950&text_color=8b949e&count_private=true" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiqueiasLp&layout=compact&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=8b949e&langs_count=8" height="165" />
+
+</div>
 
 
 <div style="display: inline_block"><br>
