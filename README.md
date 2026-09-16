@@ -2,7 +2,7 @@ Hi there 👋, my name is Miquéias
 
 
 
-<div align="center">
+<div>
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=MiqueiasLp&show_icons=true&hide_border=true&bg_color=00000000&title_color=3fb950&icon_color=3fb950&text_color=8b949e&count_private=true" height="180" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MiqueiasLp&layout=compact&hide_border=true&bg_color=00000000&title_color=3fb950&text_color=8b949e&langs_count=8" height="180" />
